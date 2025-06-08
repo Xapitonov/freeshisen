@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Авторское право (c) 2017 knilch - freeshisen@cwde.de
+  ~ Авторское право (c) 2013 contact.proofofconcept@gmail.com
+  ~
+  ~ Лицензировано по GNU General Public License, версия 2 или более поздняя.
+  ~ Некоторые права сохранены. См. COPYING.
+  -->
+
+<resources>
+    <string name="app_name">FreeShisen</string>
+    <string name="newgame">Сбросить игру</string>
+    <string name="hint">Подсказка</string>
+    <string name="undo">Отменить</string>
+    <string name="options">Опции</string>
+    <string name="about">О  видеоигре</string>
+    <string name="aboutText">\n
+&#169; 2017 knilch - freeshisen@cwde.de\n
+Большая часть кода игрового процесса и структуры приложения взята из ShisenSho:\n
+&#169; 2013 contact.proofofconcept@gmail.com\n
+Изображения взяты из kshisen (Shisen Sho 1.5.1), из пакета kdegames:\n
+&#169; 1997 Mario Weilguni\n
+Другие наборы плиток из libkmahjongg:\n
+&#169; Eugene Trounev, James L. Hammons, Robert Buchholz\n
+8-битный набор плиток &#169; ELY M\n
+Распространяется под GPL v2:\n
+https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt\n
+Получить исходный код: https://github.com/knilch0r/freeshisen</string>
+    <string name="size">Размер</string>
+    <string name="tileset">Набор плиток</string>
+    <string name="tileset_default">классический</string>
+    <string name="difficulty">Трудность</string>
+    <string name="size_default">2</string>
+    <string name="difficulty_default">1</string>
+    <string name="time_counter">Счётчик времени</string>
+    <string name="gravity">Гравитация</string>
+    <string name="gravity_pref_on">Гравитация активна.</string>
+    <string name="gravity_pref_off">Гравитация отключена.</string>
+    <string name="time_pref_on">Счётчик времени активен.</string>
+    <string name="time_pref_off">Счётчик времени отключен.</string>
+    <string name="besttimes">Лучшие времена</string>
+    <string name="diff_hard">Трудность: Сложная</string>
+    <string name="diff_easy">Трудность: Простая</string>
+    <string name="reset_hiscore">Очистить времена</string>
+    <string name="reset_hiscore_hint">Очищает все сохраненные времена</string>
+    <string name="hiscore_large1">"Большой: 1-е "</string>
+    <string name="hiscore_2nd">", 2-е "</string>
+    <string name="hiscore_medium1st">"Средний: 1-е "</string>
+    <string name="hiscore_small1">"Маленьки: 1-е "</string>
+    <string name="invalidtime">9:99:99</string>
+    <string name="clearhiscore_confirm_title">Действительно очистить лучшие времена?</string>
+    <string name="clearhiscore_confirm_text">Это очистит все сохраненные времена. Нажмите &quot;ОК&quot;, если вы действительно хотите это сделать.</string>
+    <string name="prefchange_confirm_title">Параметры изменены!</string>
+    <string name="prefchange_confirm_text">Некоторые изменения в настройках будут иметь эффект только при начале новой игры.</string>
+    <string name="hiscore_title">Рекорд!</string>
+    <string name="hiscore_text">Вы попали в список рекордов!</string>
+</resources>
