@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Авторское право (c) 2017 knilch - freeshisen@cwde.de
+  ~ Авторское право (c) 2013 contact.proofofconcept@gmail.com
+  ~
+  ~ Лицензировано по GNU General Public License, версия 2 или более поздняя.
+  ~ Некоторые права сохранены. См. COPYING.
+  -->
+
+<resources>
+    <string-array name="sizes">
+        <item>Малый</item>
+        <item>Средний</item>
+        <item>Большой</item>
+    </string-array>
+    <string-array name="difficulties">
+        <item>Простая</item>
+        <item>Сложная</item>
+    </string-array>
+    <string-array name="difficulty_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="size_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="tilesets">
+        <item>классический</item>
+        <item>нефритовый</item>
+        <item>традиционный</item>
+        <item>пиксельный</item>
+        <item>8-битный</item>
+        <item>оригинальный</item>
+        <item>вейт</item>
+    </string-array>
+</resources>
